@@ -27,13 +27,13 @@
 
 Склонируйте этот репозиторий на свой компьютер с помощью Git:
 
-git clone https://github.com/xalinac/saucedemo-e2e-test.git
-cd saucedemo-e2e-test
+\git clone https://github.com/xalinac/saucedemo-e2e-test.git
+\cd saucedemo-e2e-test
 
 ### Шаг 3: Установите зависимости
 
 Установите необходимые библиотеки, используя команду:
-pip install -r requirements.txt
+\pip install -r requirements.txt
 
 ###Шаг 4: Установите ChromeDriver
 
