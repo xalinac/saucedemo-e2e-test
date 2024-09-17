@@ -29,6 +29,8 @@
 
 ```
 git clone https://github.com/xalinac/saucedemo-e2e-test.git
+```
+```
 cd saucedemo-e2e-test
 ```
 
