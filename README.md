@@ -1,7 +1,7 @@
 # 🛒 E2E Test for Saucedemo.com
 
-![Selenium]([https://img.shields.io/badge/selenium-3.x-brightgreen](https://pypi.org/project/selenium/))
-![Python]([https://img.shields.io/badge/python-3.x-blue](https://www.python.org/))
+![Selenium]([https://img.shields.io/badge/selenium-3.x-brightgreen])
+![Python]([https://img.shields.io/badge/python-3.x-blue])
 
 Этот проект содержит автоматический E2E тест для проверки сценария покупки товара на сайте [Saucedemo.com](https://www.saucedemo.com/) с использованием **Python** и **Selenium**.
 
