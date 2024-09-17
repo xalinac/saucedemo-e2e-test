@@ -43,7 +43,7 @@ pip install -r requirements.txt
 
 ### Шаг 4: Установите ChromeDriver
 
-1.	Скачайте ChromeDriver подходящей версии для вашего браузера Chrome.
+1.	Скачайте [ChromeDriver](https://developer.chrome.com/docs/chromedriver/downloads) подходящей версии для вашего браузера Chrome.
 2.	Добавьте его в PATH, чтобы Selenium мог его использовать.
 
 ### Шаг 5: Запуск теста
