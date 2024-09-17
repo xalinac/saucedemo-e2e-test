@@ -1,8 +1,7 @@
 # 🛒 E2E Test for Saucedemo.com
 
-![Selenium](https://img.shields.io/badge/selenium-3.x-brightgreen)
-![Python](https://img.shields.io/badge/python-3.x-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
+![Selenium]([https://img.shields.io/badge/selenium-3.x-brightgreen](https://pypi.org/project/selenium/))
+![Python]([https://img.shields.io/badge/python-3.x-blue](https://www.python.org/))
 
 Этот проект содержит автоматический E2E тест для проверки сценария покупки товара на сайте [Saucedemo.com](https://www.saucedemo.com/) с использованием **Python** и **Selenium**.
 
@@ -42,7 +41,7 @@ cd saucedemo-e2e-test
 pip install -r requirements.txt
 ```
 
-###Шаг 4: Установите ChromeDriver
+### Шаг 4: Установите ChromeDriver
 
 1.	Скачайте ChromeDriver подходящей версии для вашего браузера Chrome.
 2.	Добавьте его в PATH, чтобы Selenium мог его использовать.
@@ -50,6 +49,9 @@ pip install -r requirements.txt
 ### Шаг 5: Запуск теста
 
 Для запуска теста выполните следующую команду:
+
+```
 python test_purchase.py
+```
 
 После выполнения команда выполнит тест, который включает авторизацию, добавление товара в корзину, оформление покупки и проверку успешного завершения.
